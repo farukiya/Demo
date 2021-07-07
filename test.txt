@@ -1,0 +1,3 @@
+I have learnt how to generate an ssh key. 
+I have created a repo and cloned it
+now i am adding a file to the README
